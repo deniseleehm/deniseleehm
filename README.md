@@ -1,4 +1,8 @@
-### Hi there 👋
+# About me
+## Small header?
+### Even smaller?
+#### Like this?
+- 😄 Pronouns: she/her
 
 <!--
 **deniseleehm/deniseleehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
